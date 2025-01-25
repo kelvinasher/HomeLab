@@ -16,8 +16,8 @@ I have very minor exposure to k8s, containerization.
 
 
 01/24/25
-||||||||
-I decidedto use Talos Linux as my Kubernetes cluster utility instead of booting a typical distro and installing k3s or similar. This decision came from the fact that Talos is extremely lightweight, immutable, and I found the challenge that naturally comes from Kubernetes-centric, CLI-only distro worth the challenge and learning experience. 
+
+I decided to use Talos Linux as my Kubernetes cluster utility instead of booting a typical distro and installing k3s or similar. This decision came from the fact that Talos is extremely lightweight, immutable, and I found the challenge that naturally comes from Kubernetes-centric, CLI-only distro worth the challenge and learning experience. 
 
 I have been struggling over the last few weeks in my free time to get a healthy Talos Linux cluster up and running, but today I found the point of all of my frustrations thus-far. 
 
